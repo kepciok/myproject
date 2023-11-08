@@ -1,0 +1,42 @@
+.header {
+  height: 155px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #efefef;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  flex: 400px;
+  justify-content: space-between;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.sm-icons {
+  flex: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 24px;
+  margin-left: 29px;
+  justify-content: space-around;
+}
+
+.logo-menu {
+  flex: 1;
+}
+
+.p-menu {
+  color: #1d3558;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.p-menu:hover {
+  color: #0371b7;
+}
+

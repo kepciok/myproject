@@ -1,0 +1,12 @@
+.banner-color {
+  background-color: #d4e2f2;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  margin: 0;
+}
+
+.banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
